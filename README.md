@@ -1,2 +1,2 @@
 # myrepo
-My repository for testing
+My repository for exploring git
